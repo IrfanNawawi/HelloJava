@@ -1,4 +1,4 @@
-package com.cendrawasih.javafundamental.basic.musik;
+package com.cendrawasih.javafundamental.basic.strukturdasar.musik;
 
 public class Gitar {
     public static void bunyi () {

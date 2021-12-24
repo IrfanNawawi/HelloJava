@@ -1,9 +1,9 @@
 package com.cendrawasih.javafundamental.basic;
 
-import com.cendrawasih.javafundamental.basic.kendaraan.Kereta;
-import com.cendrawasih.javafundamental.basic.kendaraan.Mobil;
-import com.cendrawasih.javafundamental.basic.kendaraan.Motor;
-import com.cendrawasih.javafundamental.basic.musik.Gitar;
+import com.cendrawasih.javafundamental.basic.strukturdasar.kendaraan.Kereta;
+import com.cendrawasih.javafundamental.basic.strukturdasar.kendaraan.Mobil;
+import com.cendrawasih.javafundamental.basic.strukturdasar.kendaraan.Motor;
+import com.cendrawasih.javafundamental.basic.strukturdasar.musik.Gitar;
 import org.apache.commons.lang3.time.DateUtils;
 
 import java.util.Date;

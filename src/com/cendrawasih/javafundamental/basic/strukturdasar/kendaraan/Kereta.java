@@ -1,4 +1,4 @@
-package com.cendrawasih.javafundamental.basic.kendaraan;
+package com.cendrawasih.javafundamental.basic.strukturdasar.kendaraan;
 
 public class Kereta {
     public static void jumlahBan() {
